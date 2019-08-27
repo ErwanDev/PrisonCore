@@ -1,0 +1,11 @@
+author: Erwan
+version: 1.0
+name: MiningCore
+main: com.erwan.miner.Main
+commands:
+  level:
+    description: Opens up the statistics GUI
+  abilities:
+    description: Opens up the Ability GUI
+  crystal:
+    description: /crystal give <player> <common;rare;epic;legendary;black> 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ced/Desktop/Development/OHANA/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ced/Desktop/Development/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ced/Desktop/Development/spigotjars/1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ced/Desktop/Development/MineMC/plugins/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
